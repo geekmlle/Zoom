@@ -26,6 +26,10 @@ h2 {
 	padding: 10px 0;
 }
 
+table tr td{
+	padding-right: 30px;
+}
+
 p {
 	padding: 10px 0;
 	text-align: justify;
